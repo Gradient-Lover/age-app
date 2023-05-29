@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/gradient-app/static/css/main.f68c5739.css",
-    "main.js": "/gradient-app/static/js/main.48498799.js",
-    "static/js/787.b829f917.chunk.js": "/gradient-app/static/js/787.b829f917.chunk.js",
-    "static/media/bellatrix.jpg": "/gradient-app/static/media/bellatrix.61c5284662e54d0543c2.jpg",
-    "static/media/dudley.jpg": "/gradient-app/static/media/dudley.bcf99b06a5e8a1fa9f66.jpg",
-    "static/media/minerva.jpg": "/gradient-app/static/media/minerva.4345823658d4c8055050.jpg",
-    "static/media/draco.jpg": "/gradient-app/static/media/draco.6f193c6a160be69e66dd.jpg",
-    "static/media/molly.jpg": "/gradient-app/static/media/molly.5ba0f318b668cf50366a.jpg",
-    "static/media/baby.jpg": "/gradient-app/static/media/baby.e610ce9eb8a785af2f16.jpg",
-    "static/media/ginny.jpg": "/gradient-app/static/media/ginny.c846e2e2da4dcb14254d.jpg",
-    "static/media/myrtle.png": "/gradient-app/static/media/myrtle.e46534a9d98e8ec36162.png",
-    "static/media/albus.jpg": "/gradient-app/static/media/albus.c4d5d7d3ef6f24b462e1.jpg",
-    "static/media/hat.webp": "/gradient-app/static/media/hat.90d67e96da014f6e0277.webp",
-    "static/media/div.jpg": "/gradient-app/static/media/div.838cf30a5fbf314ce7bd.jpg",
-    "static/media/hermione.jpg": "/gradient-app/static/media/hermione.ccf5cf6329bcaa199420.jpg",
-    "static/media/rubeus.jpg": "/gradient-app/static/media/rubeus.6363ab37de02a4e971bc.jpg",
-    "index.html": "/gradient-app/index.html",
-    "main.f68c5739.css.map": "/gradient-app/static/css/main.f68c5739.css.map",
-    "main.48498799.js.map": "/gradient-app/static/js/main.48498799.js.map",
-    "787.b829f917.chunk.js.map": "/gradient-app/static/js/787.b829f917.chunk.js.map"
+    "main.css": "/age-app/static/css/main.df670cc5.css",
+    "main.js": "/age-app/static/js/main.b4f242ac.js",
+    "static/js/787.b829f917.chunk.js": "/age-app/static/js/787.b829f917.chunk.js",
+    "static/media/bellatrix.jpg": "/age-app/static/media/bellatrix.61c5284662e54d0543c2.jpg",
+    "static/media/dudley.jpg": "/age-app/static/media/dudley.bcf99b06a5e8a1fa9f66.jpg",
+    "static/media/minerva.jpg": "/age-app/static/media/minerva.4345823658d4c8055050.jpg",
+    "static/media/draco.jpg": "/age-app/static/media/draco.6f193c6a160be69e66dd.jpg",
+    "static/media/molly.jpg": "/age-app/static/media/molly.5ba0f318b668cf50366a.jpg",
+    "static/media/baby.jpg": "/age-app/static/media/baby.e610ce9eb8a785af2f16.jpg",
+    "static/media/ginny.jpg": "/age-app/static/media/ginny.c846e2e2da4dcb14254d.jpg",
+    "static/media/myrtle.png": "/age-app/static/media/myrtle.e46534a9d98e8ec36162.png",
+    "static/media/albus.jpg": "/age-app/static/media/albus.c4d5d7d3ef6f24b462e1.jpg",
+    "static/media/hat.webp": "/age-app/static/media/hat.90d67e96da014f6e0277.webp",
+    "static/media/div.jpg": "/age-app/static/media/div.838cf30a5fbf314ce7bd.jpg",
+    "static/media/hermione.jpg": "/age-app/static/media/hermione.ccf5cf6329bcaa199420.jpg",
+    "static/media/rubeus.jpg": "/age-app/static/media/rubeus.6363ab37de02a4e971bc.jpg",
+    "index.html": "/age-app/index.html",
+    "main.df670cc5.css.map": "/age-app/static/css/main.df670cc5.css.map",
+    "main.b4f242ac.js.map": "/age-app/static/js/main.b4f242ac.js.map",
+    "787.b829f917.chunk.js.map": "/age-app/static/js/787.b829f917.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f68c5739.css",
-    "static/js/main.48498799.js"
+    "static/css/main.df670cc5.css",
+    "static/js/main.b4f242ac.js"
   ]
 }
