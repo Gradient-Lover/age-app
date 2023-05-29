@@ -1,0 +1,81 @@
+*{
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.App {
+  text-align: center;
+}
+
+body{
+  background: linear-gradient(132deg, rgb(250, 170, 0) 0.00%, rgb(237, 19, 19) 50.00%, rgb(213, 74, 255) 100.00%);
+  color: antiquewhite;
+  font-family: fantasy;
+  font-weight: bolder;
+  height: 100vh;
+}
+#input{
+  background: linear-gradient(to right,salmon,cadetblue,palegoldenrod,palegreen);
+  color: palevioletred;
+  text-align: center;
+  border-radius: 5px;
+  border: 3px solid goldenrod;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  margin-bottom: 15px;
+}
+
+img{
+  animation-name: image-animation;
+  animation-duration: 2s;
+  animation-iteration-count: 1;
+}
+
+@keyframes image-animation {
+  0%{
+    opacity: 0;
+  }
+  100%{
+    opacity: 1;
+  }
+}
+
+.rounded-3{
+  height: 45vh;
+}
+
+#picture{
+  min-height: 50vh;
+  background-image: url(./images/div.jpg);
+  background-size: cover;
+  border: 3px black solid;
+}
+
+img{
+  border-radius: 50px;
+  border: solid #6d2039 3px;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+  border-radius: 50%;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 7s linear;
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
